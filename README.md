@@ -13,6 +13,4 @@ C#, ASP.NET, Angular, TypeScript, MySQL, PostgreSQL, PowerShell
 
 * Full-stack development (Angular + ASP.NET)
 * Clean, scalable backend architecture
-* API design (REST & gRPC)
-* CI/CD and deployment automation
 * Internal tooling and workflow optimisation
